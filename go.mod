@@ -1,1 +1,1 @@
-module PkgInterface
+module github.com/GoXomyak/PkgInterface
